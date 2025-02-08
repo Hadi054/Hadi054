@@ -1,7 +1,8 @@
-👋 Hi, I'm [Your Name]!  
+👋 Hi, I'm Nure Hadi!  
+Currently studying Computer Science and Engineering in Chittagong University of Engineering and technology.
 I'm passionate about learning and building in the tech world.  
 
-💡 I explore:  
+💡 I have explored:  
 - **Full Stack Web Development**  
 - **App Development** (Flutter, Native)  
 - **Machine Learning & Computer Vision**  
