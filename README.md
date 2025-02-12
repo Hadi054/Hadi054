@@ -3,8 +3,8 @@ Currently studying Computer Science and Engineering in Chittagong University of 
 I'm passionate about learning and building in the tech world.  
 
 💡 I have explored:  
+- **App Development** (Flutter)  
 - **Full Stack Web Development**  
-- **App Development** (Flutter, Native)  
 - **Machine Learning & Computer Vision**  
 - **Competitive Programming**  
 
